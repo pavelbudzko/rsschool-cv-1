@@ -1,6 +1,6 @@
 # **Daniel Lange**
 ## __Contacts:__
-*Email: **drlangin@gmail.com** * 
+* Email: **drlangin@gmail.com** * 
 
 ## __About:__
 >_My goal is to become a programmer_.
