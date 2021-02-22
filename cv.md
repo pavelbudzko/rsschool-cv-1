@@ -1,7 +1,7 @@
 # **Daniel Lange**
 ![my pict](https://www.krassever.ru/statics/upload/iblock/f9a/29_1-енот.jpg)
 ## __Contacts:__
-* Email: **drlangin@gmail.com** * 
+* Email: **drlangin@gmail.com** 
 
 ## __About:__
 >_My goal is to become a programmer_.
