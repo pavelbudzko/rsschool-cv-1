@@ -1,4 +1,5 @@
 # **Daniel Lange**
+![my pict](http://komiwiki.syktsu.ru/images/b/bb/Enot-poloskun_enot_tone_7.jpg)
 ## __Contacts:__
 * Email: **drlangin@gmail.com** * 
 
