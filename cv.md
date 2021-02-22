@@ -12,9 +12,10 @@ _My priorities are to build my future profession in the field of IT_.
 * _I haven't skills of programming languages yet_
  
  ## __Code example:__
+ 
 ```
 main( ) {
         printf("hello, world\n");
 }
 ```
-###### [my GitHub](https://github.com/Dan1k9) 
+##### [my GitHub](https://github.com/Dan1k9) 
